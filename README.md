@@ -20,7 +20,7 @@
 
 ###
 
-<p align="left">I'm Mateus Souza from Brazil<br><br>- 🔭 Looking for your first opportunity as a developer<br>- 📚 I'm currently learning JavaScript, TypeScript, Python and Angular<br>- ⚡ In my free time I read, play games and watch movies</p>
+<p align="left">I'm Mateus Souza from Brazil<br><br>- 🔭 Looking for first opportunity as a developer<br>- 📚 I'm currently learning JavaScript, TypeScript, Python and Angular<br>- ⚡ In my free time I read, play games and watch movies</p>
 
 ###
 
