@@ -51,11 +51,6 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/MattSouza14/maurodesouza/output/snake.svg" alt="Snake animation" />
-
-###
 
 
 
