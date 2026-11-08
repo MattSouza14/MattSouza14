@@ -1,5 +1,3 @@
-[README.md](https://github.com/user-attachments/files/34555096/README.md)
- {align="center"}
 # Olá! Eu sou Mateus Souza 👋
 
 ### Software Developer \| Java • Spring Boot • Angular • Docker
