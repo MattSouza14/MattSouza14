@@ -76,10 +76,9 @@ Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=
 Confira meus repositórios para acompanhar meus estudos, experimentos e
 projetos:
 
-::: {align="center"}
 [![Meus
 repositórios](https://img.shields.io/badge/Explorar%20repositórios-181717?style=for-the-badge&logo=github)](https://github.com/MattSouza14?tab=repositories)
-:::
+
 
 ## 🤝 Vamos nos conectar?
 
