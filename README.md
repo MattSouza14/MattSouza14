@@ -91,7 +91,3 @@ pessoas da comunidade de tecnologia.
 
 ------------------------------------------------------------------------
 
-::: {align="center"}
-**"Sempre aprendendo, evoluindo e transformando ideias em soluções."**
-🚀
-:::
